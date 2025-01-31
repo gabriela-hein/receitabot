@@ -1,0 +1,9 @@
+##Opções visuais da página
+
+[theme]
+
+prymaryColor= "#E0EC05" #cor princiapl elemnetos interativos, como botões
+backgroundColor= "#000000"#cor do fundo
+secondarybackgroundColor ="#11979E"
+textColor = "FFFFFF"
+font = "sans serif"
